@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+models/logreg_adult_age_mean.joblib
+models/logreg_adult_age_median.joblib
