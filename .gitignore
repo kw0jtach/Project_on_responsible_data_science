@@ -209,3 +209,4 @@ models/logreg_adult_age_mean.joblib
 models/logreg_adult_age_median.joblib
 models/the_classifier.joblib
 models/the_fair_classifier.joblib
+models/the_private_classifier.joblib
